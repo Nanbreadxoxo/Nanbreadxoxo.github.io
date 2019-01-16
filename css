@@ -1,0 +1,31 @@
+/* blue */
+
+body {
+margin: 11;
+padding: 11;
+font-family: Helvetica;
+font-size: 16px;
+color: black;
+background-color: rgb(224, 224, 151);
+background-image: url(man\ copy.jpg)
+ 
+}
+
+
+h1{
+font-size: 50px;
+color: lightskyblue 
+}
+
+img{
+height: 400px;
+margin:  12px; 
+
+}
+p{
+    font-family: initial 
+}
+b{
+   font-size: 30px; 
+    color: lavender
+}
